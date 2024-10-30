@@ -1,0 +1,11 @@
+Brayden Christensen
+Data Scientist & Full-Stack Developer
+About me
+
+I am a senior studying Computer Science with an emphasis in Machine Learning. Check out my Hugging Face profile to see the models I have fine-tuned and played around with. In my free time I love to try new sports, games, and music. I snowboard and play the drums. Here are my strongest skills and personal projects!
+
+Skills
+Languages
+Frameworks
+Python Libraries
+Databases
